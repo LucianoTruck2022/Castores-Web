@@ -1,12 +1,12 @@
-# Dependency directories
+git add castores-express-site
+git commit -m "Agregar archivos de castores-express-site"
+git push origin maingit add castores-express-site
+git commit -m "Agregar archivos de castores-express-site"
+git push origin main# Dependency directories
 castores-express-site/node_modules/
 castores-express-site/jspm_packages/
 castores-express-site/package-lock.json
-
-# Optional REPL history
 castores-express-site/.node_repl_history
-
-# dotenv environment variables file
 castores-express-site/.env
 castores-express-site/.env.test
 
@@ -121,3 +121,6 @@ castores-react-site/.dynamodb/
 
 # TernJS port file
 castores-react-site/.tern-port
+
+git add castores-express-site
+git status
