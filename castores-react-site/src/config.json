@@ -1,0 +1,91 @@
+{
+    "staff": [
+        {
+            "staff_id": 74134,
+            "staff_name": "Chief Executive Officer",
+            "staff_color": "#ffff00"
+        },
+        {
+            "staff_id": 192659,
+            "staff_name": "Chief Operating Officer",
+            "staff_color": "#ffff00"
+        },
+        {
+            "staff_id": 119278,
+            "staff_name": "Chief Directivo Officer",
+            "staff_color": "#00eeff"
+        },
+        {
+            "staff_id": 187237,
+            "staff_name": "Chief Technology Officer",
+            "staff_color": "#00bfff"
+        },
+        {
+            "staff_id": 187240,
+            "staff_name": "Chief Marketing Officer",
+            "staff_color": "#00bfff"
+        },
+        {
+            "staff_id": 187235,
+            "staff_name": "Chief Human Resources Officer",
+            "staff_color": "#eeff00"
+        },
+        {
+            "staff_id": 187236,
+            "staff_name": "Chief Events Manager",
+            "staff_color": "#bf2b67"
+        },
+        {
+            "staff_id": 192894,
+            "staff_name": "Team Reforma",
+            "staff_color": "#2d4539"
+        },
+        {
+            "staff_id": 146949,
+            "staff_name": "Human Resource",
+            "staff_color": "#630286"
+        },
+        {
+            "staff_id": 123956,
+            "staff_name": "Events Team",
+            "staff_color": "#0084ff"
+        },
+        {
+            "staff_id": 187239,
+            "staff_name": "Media & Marketing",
+            "staff_color": "#ffa200"
+        },
+        {
+            "staff_id": 186466,
+            "staff_name": "Developer",
+            "staff_color": "#ffa200"
+        },
+        {
+            "staff_id": 153981,
+            "staff_name": "C.T Staff",
+            "staff_color": "#ffa200"
+        }
+    ],
+    "partners": [
+        {
+            "name": "Traileros Latinos",
+            "logo": "tl.webp",
+            "link": "https://truckersmp.com/vtc/65011"
+        },
+        {
+            "name": "Alliance",
+            "logo": "alliance.webp",
+            "link": "https://truckersmp.com/vtc/1271"
+        },
+        {
+            "name": "Titanes World Trucks",
+            "logo": "titanes.webp",
+            "link": "https://truckersmp.com/vtc/76975"
+        },
+        {
+            "name": "Pean Logistics",
+            "logo": "pean.webp",
+            "link": "https://truckersmp.com/vtc/64631"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.reformaSection {
+    background: rgb(133, 53, 87);
+    background: -moz-linear-gradient(
+        90deg,
+        rgba(133, 53, 87, 1) 0%,
+        rgba(150, 21, 21, 1) 52%,
+        rgba(142, 159, 49, 1) 100%
+    );
+    background: -webkit-linear-gradient(
+        90deg,
+        rgba(133, 53, 87, 1) 0%,
+        rgba(150, 21, 21, 1) 52%,
+        rgba(142, 159, 49, 1) 100%
+    );
+    background: linear-gradient(
+        90deg,
+        rgba(133, 53, 87, 1) 0%,
+        rgba(150, 21, 21, 1) 52%,
+        rgba(142, 159, 49, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#853557",endColorstr="#8e9f31",GradientType=1);
+}
